@@ -50,6 +50,10 @@ Once you have found it, make a note of the `PIDREF`.
 
 You can repeat this process and make note of as many PIDREFs as you want to track. Once you have them all, you can move on to the installation.
 
+If you feel able and you want to be able to search this data in more advanced ways, you can find the specification for setting filters and such here:
+
+https://learn.microsoft.com/en-us/dynamics-nav/using-filter-expressions-in-odata-uris
+
 ## Installation
 
 Copy the `tfgm` folder into the `custom_components` directory in your home assistant config folder. If one doesn't exist, you will need to create it.
