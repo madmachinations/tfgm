@@ -1,0 +1,15 @@
+{
+    "config": {
+        "error": {},
+        "step": {
+            "user": {
+                "data": {
+                    "api_key": "TFGM API Key",
+                    "pid_refs": "PID Refs"
+                },
+                "description": "Enter your API key and comma-separated PID references for the stops you want to monitor.",
+                "title": "TFGM Metrolink"
+            }
+        }
+    }
+}
